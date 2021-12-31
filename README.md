@@ -50,7 +50,7 @@ Components required for this part:
 
 • MicroSD to SD card adapter
 
-After connecting the Arduino to our computer, open the Arduino IDE and import the provided script.
+After connecting the Arduino to the computer, open the Arduino IDE and import the provided script.
 
 All we have to do now is to download a library that we will need to connect to the Broker. By going to Tools / Manage Libraries a search bar appears. There we look for the PubSubClient library by Nick O’Leary, which we install. Like Stage 2, before compiling the script, configure broker's IP address and the sub topic.
 
